@@ -9,4 +9,10 @@ background: rgb(129, 233, 252);
   color: blue;
   background:violet;
    }
-   
+ .chamada{
+   background:chartreuse;
+   padding-top: 100px;
+   padding-bottom: 100px;
+   display: flex;
+   justify-content: center;
+ }

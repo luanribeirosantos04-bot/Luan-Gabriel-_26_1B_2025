@@ -1,5 +1,5 @@
 body{
-color: rgb(2, 24, 21);
+color: rgba(235, 183, 13, 0.841);
 background: rgb(129, 233, 252);
 }
  header{
@@ -15,4 +15,5 @@ background: rgb(129, 233, 252);
    padding-bottom: 100px;
    display: flex;
    justify-content: center;
+
  }
